@@ -1,0 +1,33 @@
+
+body{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background-image: url('images2/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+.sign-up-form
+{
+    width:200px;
+    box-shadow: whitesmoke;
+    background: #fff;
+    padding:20px;
+    margin:8% auto 0;
+    text-align: center;
+}
+
+.sign-up-form h1{
+    color:aqua;
+    margin-bottom: 30px;
+}
+
+.input-box{
+    border-radius: 20px;
+    padding:10px;
+    margin:10px 0;
+    width:100%;
+    border:1px solid greenyellow;
+    outline: none;
+}
